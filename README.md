@@ -25,7 +25,7 @@ This is a simple and colorful webpage built using **HTML and CSS**, showcasing a
 
 ## 📸 Preview
 
-*(You can add a screenshot here later by uploading `preview.png` to your repo)*
+![Preview Image](https://github.com/rohnroy0/Color-Markers/blob/main/preview02.png?raw=true)
 
 ---
 
